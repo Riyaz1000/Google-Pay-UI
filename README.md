@@ -1,6 +1,6 @@
 # Google-Pay-UI
 # Gpay-UI-CLI
-Gpay-UI-CLI was structured and designed using Tailwind CSS with CLI method. The project is designed to work well on mobile devices. This means that the user interface adjusts and scales appropriately to fit various screen sizes, ensuring a good user experience on smartphones and tablets. 
+Gpay-UI-CLI was structured and designed using Tailwind CSS with vite method. The project is designed to work well on mobile devices. This means that the user interface adjusts and scales appropriately to fit various screen sizes, ensuring a good user experience on smartphones and tablets. 
 
 To view the project, you should visit the provided link.
 
